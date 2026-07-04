@@ -1,0 +1,27 @@
+E:\Amol\Projects\VS2019Projects\CachingService\bin\Debug\netcoreapp3.1\CachingService.deps.json
+E:\Amol\Projects\VS2019Projects\CachingService\bin\Debug\netcoreapp3.1\CachingService.dll
+E:\Amol\Projects\VS2019Projects\CachingService\obj\Debug\netcoreapp3.1\CachingService.AssemblyInfoInputs.cache
+E:\Amol\Projects\VS2019Projects\CachingService\obj\Debug\netcoreapp3.1\CachingService.AssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\CachingService\bin\Debug\netcoreapp3.1\CachingService.pdb
+E:\Amol\Projects\VS2019Projects\CachingService\obj\Debug\netcoreapp3.1\CachingService.dll
+E:\Amol\Projects\VS2019Projects\CachingService\obj\Debug\netcoreapp3.1\CachingService.pdb
+E:\Amol\Projects\VS2019Projects\CachingService\obj\Debug\netcoreapp3.1\CachingService.csproj.CoreCompileInputs.cache
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\bin\Debug\netcoreapp3.1\CachingService.deps.json
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\bin\Debug\netcoreapp3.1\CachingService.dll
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\bin\Debug\netcoreapp3.1\CachingService.pdb
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\obj\Debug\netcoreapp3.1\CachingService.GeneratedMSBuildEditorConfig.editorconfig
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\obj\Debug\netcoreapp3.1\CachingService.AssemblyInfoInputs.cache
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\obj\Debug\netcoreapp3.1\CachingService.AssemblyInfo.cs
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\obj\Debug\netcoreapp3.1\CachingService.csproj.CoreCompileInputs.cache
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\obj\Debug\netcoreapp3.1\CachingService.dll
+E:\C backup\AMOL\Projects\ProductManagment\CachingService\obj\Debug\netcoreapp3.1\CachingService.pdb
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\bin\Debug\netcoreapp3.1\CachingService.deps.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\bin\Debug\netcoreapp3.1\CachingService.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\bin\Debug\netcoreapp3.1\CachingService.pdb
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.csproj.AssemblyReference.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.AssemblyInfoInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.AssemblyInfo.cs
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.csproj.CoreCompileInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\CachingService\obj\Debug\netcoreapp3.1\CachingService.pdb

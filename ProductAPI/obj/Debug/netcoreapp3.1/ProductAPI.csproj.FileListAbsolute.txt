@@ -1,0 +1,369 @@
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\TestAPI\TestAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ProductAPI2021 - Web Deploy\profile.arm.json
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Amol\Projects\VS2019Projects\TestAPI\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ProductAPI2021 - Web Deploy\profile.arm.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.dll
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.pdb
+E:\Amol\Projects\VS2019Projects\demoaspnetcore\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ProductAPI202109 - Web Deploy\profile.arm.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\DistributedCachingService.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\TestData\productstestdata.json
+E:\Amol\Projects\VS2019Projects\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Amol\Projects\VS2019Projects\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csprojAssemblyReference.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\TestData\productstestdata.json
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\CachingService.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\CachingService.pdb
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.pdb
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.xml
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductAPI.styles.css
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CopyComplete
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+E:\C backup\AMOL\Projects\ProductManagment\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\TestData\productstestdata.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.StaticWebAssets.xml
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.exe
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.deps.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Keys.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\CachingService.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\CachingService.pdb
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\bin\Debug\netcoreapp3.1\Product.Business.pdb
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.AssemblyReference.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.AssemblyInfo.cs
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Manifest.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProductAPI.StaticWebAssets.Pack.cache
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ProductAPI.props
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ProductAPI.props
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ProductAPI.props
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.csproj.Up2Date
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.dll
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.pdb
+C:\Users\Amol Joshi\source\repos\.Net\ProductManagmentApp\ProductManagmentAppLatest-main\ProductAPI\obj\Debug\netcoreapp3.1\ProductAPI.genruntimeconfig.cache
