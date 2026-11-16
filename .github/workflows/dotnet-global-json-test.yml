@@ -1,0 +1,12 @@
+name: DotNet Global Json Test
+ on:
+ workflow_dispatch:
+
+jobs:
+ dotnet-global-json:
+ runs-on: ubuntu-latest
+ steps:
+ - name: Pin the .NET SDK the project needs (global.json)
+ run: |
+ echo '{"sdk": {"version": "6.0.428", "rollForward": "disable"}}' > global.json
+ - run: dotnet --version
