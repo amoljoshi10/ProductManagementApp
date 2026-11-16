@@ -1,14 +1,14 @@
 name: Upload Artifact Test
- on:
- workflow_dispatch:
+on:
+  workflow_dispatch:
 
 jobs:
- deprecated-action:
- runs-on: ubuntu-latest
- steps:
- - uses: actions/checkout@v4
- - run: echo "build output" > build.txt
- - uses: actions/upload-artifact@v3
- with:
- name: build-output
- path: build.txt
+  deprecated-action:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "build output" > build.txt
+      - uses: actions/upload-artifact@v3
+        with:
+          name: build-output
+          path: build.txt
