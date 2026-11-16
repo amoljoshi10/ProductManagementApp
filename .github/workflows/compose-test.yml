@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Show Docker Compose version
-        run: docker-compose version
+        run: docker compose version
