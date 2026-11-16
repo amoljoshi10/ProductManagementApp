@@ -1,0 +1,24 @@
+name: Container Build and Scan
+ on:
+ workflow_dispatch:
+
+env:
+ IMAGE_NAME: DSOMM-Web
+ IMAGE_TAG: "1.0"
+
+jobs:
+ build-and-scan:
+ runs-on: ubuntu-latest
+ steps:
+ - name: Create the Dockerfile
+ run: |
+ printf 'FROM alpine:3.20\nRUN adduser -D app\nUSER app\nCMD ["echo", "hello from DSOMM"]\n' > Dockerfile
+
+ - name: Lint the Dockerfile (Hadolint)
+ run: docker run --rm -i hadolint/hadolint hadolint --failure-threshold error - < Dockerfile
+
+ - name: Build the container image
+ run: docker build -t "$IMAGE_NAME:$IMAGE_TAG" .
+
+ - name: Inspect the image
+ run: docker image inspect "$IMAGE_NAME:$IMAGE_TAG" --format 'Built {{.RepoTags}} for {{.Os}}/{{.Architecture}}'
