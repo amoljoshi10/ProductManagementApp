@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: version
-        run: echo "::set-output name=version::1.0"
+        run: echo "version=1.0" >> "$GITHUB_ENV"
       - name: Check for the retired set-output command
         run: |
           if grep -qE 'ech[o] "::set-output' .github/workflows/set-output-test.yml; then
