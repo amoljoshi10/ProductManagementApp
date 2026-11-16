@@ -1,23 +1,23 @@
 name: CodeQL Test
- on:
- workflow_dispatch:
+on:
+  workflow_dispatch:
 
 jobs:
- check:
- runs-on: ubuntu-latest
- steps:
- - uses: actions/checkout@v4
- - name: Check the CodeQL Action version
- run: |
- if grep -qE 'github/codeql-action/[a-z-]+@v[12]\s*$' .github/workflows/codeql-test.yml; then
- echo "::error::CodeQL Action major versions v1 and v2 have been deprecated. Please update all occurrences of the CodeQL Action in your workflow files to v3. (simulated)"
- exit 1
- fi
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check the CodeQL Action version
+        run: |
+          if grep -qE 'github/codeql-action/[a-z-]+@v[12]\s*$' .github/workflows/codeql-test.yml; then
+            echo "::error::CodeQL Action major versions v1 and v2 have been deprecated. Please update all occurrences of the CodeQL Action in your workflow files to v3. (simulated)"
+            exit 1
+          fi
 
- analyze:
- if: false # never runs; it only holds the CodeQL Action version that the check looks at
- runs-on: ubuntu-latest
- steps:
- - uses: github/codeql-action/init@v2
- with:
- languages: python
+  analyze:
+    if: false # never runs; it only holds the CodeQL Action version that the check looks at
+    runs-on: ubuntu-latest
+    steps:
+      - uses: github/codeql-action/init@v2
+        with:
+          languages: python
