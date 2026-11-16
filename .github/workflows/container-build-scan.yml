@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: DSOMM-Web
+  IMAGE_NAME: dsomm-web
   IMAGE_TAG: "1.0"
 
 jobs:
