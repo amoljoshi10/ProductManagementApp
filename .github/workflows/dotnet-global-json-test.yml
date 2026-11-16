@@ -8,5 +8,5 @@ jobs:
     steps:
       - name: Pin the .NET SDK the project needs (global.json)
         run: |
-          echo '{"sdk": {"version": "6.0.428", "rollForward": "disable"}}' > global.json
+          echo '{"sdk": {"version": "8.0.428", "rollForward": "disable"}}' > global.json
       - run: dotnet --version
