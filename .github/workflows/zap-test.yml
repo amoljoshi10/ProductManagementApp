@@ -1,16 +1,16 @@
 name: ZAP Test
- on:
- workflow_dispatch:
+on:
+  workflow_dispatch:
 
 jobs:
- zap-retired-image:
- runs-on: ubuntu-latest
- steps:
- - name: DAST scan (OWASP ZAP baseline)
- run: |
- IMAGE=owasp/zap2docker-stable
- case "$IMAGE" in owasp/*)
- echo "::error::pull access denied: the owasp/zap2docker images are retired (simulated)"
- exit 1 ;;
- esac
- docker run --rm "$IMAGE" zap-baseline.py -t https://www.example.com -I
+  zap-retired-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DAST scan (OWASP ZAP baseline)
+        run: |
+          IMAGE=owasp/zap2docker-stable
+          case "$IMAGE" in owasp/*)
+            echo "::error::pull access denied: the owasp/zap2docker images are retired (simulated)"
+            exit 1 ;;
+          esac
+          docker run --rm "$IMAGE" zap-baseline.py -t https://www.example.com -I
