@@ -1,0 +1,17 @@
+name: Set-Output Test
+ on:
+ workflow_dispatch:
+
+jobs:
+ set-output:
+ runs-on: ubuntu-latest
+ steps:
+ - uses: actions/checkout@v4
+ - id: version
+ run: echo "::set-output name=version::1.0"
+ - name: Check for the retired set-output command
+ run: |
+ if grep -qE 'ech[o] "::set-output' .github/workflows/set-output-test.yml; then
+ echo "::error::The set-output command is disabled. Please upgrade to using Environment Files. (simulated)"
+ exit 1
+ fi
