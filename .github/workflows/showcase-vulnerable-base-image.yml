@@ -1,22 +1,22 @@
 name: Container Image Security Gate
- on:
- workflow_dispatch:
+on:
+  workflow_dispatch:
 
 env:
- BASE_IMAGE: nginx:1.16
- IMAGE: showcase-web:1.0
+  BASE_IMAGE: nginx:1.16
+  IMAGE: showcase-web:1.0
 
 jobs:
- build-and-scan:
- runs-on: ubuntu-latest
- steps:
- - name: Create the Dockerfile
- run: |
- printf 'ARG BASE_IMAGE\nFROM ${BASE_IMAGE}\nRUN echo "<h1>DSOMM Showcase</h1>" > /usr/share/nginx/html/index.html\n' > Dockerfile
- - name: Build the image
- run: docker build --build-arg BASE_IMAGE="$BASE_IMAGE" -t "$IMAGE" .
- - name: Scan the image with Trivy (block CRITICAL vulnerabilities)
- run: |
- docker run --rm -v /var/run/docker.sock:/var/run/docker.sock aquasec/trivy:latest image \
- --db-repository public.ecr.aws/aquasecurity/trivy-db \
- --severity CRITICAL --ignore-unfixed --exit-code 1 --no-progress "$IMAGE"
+  build-and-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create the Dockerfile
+        run: |
+          printf 'ARG BASE_IMAGE\nFROM ${BASE_IMAGE}\nRUN echo "<h1>DSOMM Showcase</h1>" > /usr/share/nginx/html/index.html\n' > Dockerfile
+      - name: Build the image
+        run: docker build --build-arg BASE_IMAGE="$BASE_IMAGE" -t "$IMAGE" .
+      - name: Scan the image with Trivy (block CRITICAL vulnerabilities)
+        run: |
+          docker run --rm -v /var/run/docker.sock:/var/run/docker.sock aquasec/trivy:latest image \
+            --db-repository public.ecr.aws/aquasecurity/trivy-db \
+            --severity CRITICAL --ignore-unfixed --exit-code 1 --no-progress "$IMAGE"
