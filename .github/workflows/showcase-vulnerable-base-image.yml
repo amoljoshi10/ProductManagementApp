@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 env:
-  BASE_IMAGE: nginx:1.16
+  BASE_IMAGE: nginx:1.24
   IMAGE: showcase-web:1.0
 
 jobs:
