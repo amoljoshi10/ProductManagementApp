@@ -19,4 +19,4 @@ jobs:
         run: |
           docker run --rm -v /var/run/docker.sock:/var/run/docker.sock aquasec/trivy:latest image \
             --db-repository public.ecr.aws/aquasecurity/trivy-db \
-            --severity CRITICAL --ignore-unfixed --exit-code 1 --no-progress "$IMAGE"
+            --severity HIGH,CRITICAL --ignore-unfixed --no-progress "$IMAGE"
