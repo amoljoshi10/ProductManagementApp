@@ -1,8 +1,8 @@
-# Product Management App
+# Product Management App Solution
 
 This repository contains an ASP.NET Core MVC application for browsing product information and a separate ASP.NET Core Web API that provides the product data. The solution also includes shared caching and product-expiration business logic.
 
-## Solution projects
+### Solution projects
 
 | Project | Purpose |
 | --- | --- |
@@ -13,7 +13,7 @@ This repository contains an ASP.NET Core MVC application for browsing product in
 
 The projects target **.NET 8**.
 
-## Requirements
+### Requirements
 
 - .NET 8 SDK
 - Optional: a Redis instance when running outside the `Development` environment
